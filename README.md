@@ -7,6 +7,6 @@ Created by Daniel Quispe (daniel.quispe@northwestern.edu)
 Authors:
   - Daniel Quispe
   - Dominik Kozjek
-  - Tuba Dolar
   - Mojtaba Mozaffar
   - Tianju Xue
+  - Jian Cao
